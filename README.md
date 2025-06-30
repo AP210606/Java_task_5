@@ -8,3 +8,9 @@ A command-line application that simulates basic bank operations, demonstrating c
 - Track and display account balance.
 - Record and show transaction history.
 - Demonstrate real-world banking operations using OOP.
+
+## Key Concepts
+- Classes & Objects
+- Inheritance
+- Method Overriding
+- Encapsulation
